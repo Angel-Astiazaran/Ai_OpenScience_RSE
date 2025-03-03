@@ -1,0 +1,30 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Ai_OpenScience_RSE",
+  "description": "A tool for extracting and analyzing text from 10 open-access research papers.",
+  "identifier": "https://github.com/Angel-Astiazaran/Ai_OpenScience_RSE",
+  "license": "https://opensource.org/licenses/Apache-2.0",
+  "version": "1.0.0",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Angel",
+      "familyName": "Astiazaran",
+      "email": "angel.astiazaran@alumnos.upm.es",
+      "affiliation": "Universidad Politécnica de Madrid"
+    }
+  ],
+  "programmingLanguage": "Python",
+  "operatingSystem": "Linux",
+  "softwareRequirements": [
+    "Python >=3.8",
+    "matplotlib",
+    "wordcloud",
+    "requests"
+  ],
+  "codeRepository": "https://github.com/Angel-Astiazaran/Ai_OpenScience_RSE",
+  "dateCreated": "2025-02-29",
+  "dateModified": "2025-02-29",
+  "keywords": ["Open Science", "Text Analysis", "Research Software"]
+}
