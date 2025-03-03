@@ -1,0 +1,96 @@
+Arjun Suresh - Measuring Changes in Myocardial Perfusion in Left-Sided Breast Cancer Patients.xml:
+  - https://www.who.int/news-room/fact-sheets/detail/breast-cancer
+  - https://www.cancer.gov/about-cancer/treatment/types/radiation-therapy
+
+WJARR-2024-0625.xml:
+  - https://doi.org/10.3390/biomedinformatics4010027
+
+Classification of Breast Cancer Tumors from Histopathological Images.xml:
+  - https://doi.org/10.1007/s10916-010-9611-z
+  - https://doi.org/10.1371/journal.pone.0177544
+  - https://doi.org/10.1016/j.bspc.2020.102192
+  - https://www.kaggle.com/datasets/ambarish/breakhis
+  - https://www.bcrf.org/breast-cancer-statistics-and-resources/
+  - https://www.tandfonline.com/doi/abs/10.1163/156939311797454015
+  - https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset
+  - https://doi.org/10.1613/jair.953
+  - https://doi.org/10.1109/CVPR.2009.5206848
+  - https://link.springer.com/article/10.1007/s10916-014-0023-3https://doi.org/10.1007/s10916-014-0023-3
+  - https://doi.org/10.1109/RBME.2009.2034865
+  - https://doi.org/10.1007/11538059_91
+  - https://doi.org/10.1038/s41598-017-04075-z
+  - https://doi.org/10.1109/CVPR.2016.90
+  - https://doi.org/10.1109/CGIV.2011.31
+  - https://gco.iarc.fr/today/en/dataviz/pie?mode=population&group_populations=0&cancers=20&types=0
+  - https://doi.org/10.1148/radiol.2251011667
+  - https://doi.org/10.1007/978-3-319-93000-8_106
+  - https://doi.org/10.1038/s41591-020-01174-9
+  - https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images/code
+  - https://www.kaggle.com/datasets/andrewmvd/metastatic-tissue-classification-patchcamelyon
+  - https://doi.org/10.7717/peerj.6201
+  - https://arxiv.org/abs/0912.2314
+  - https://doi.org/10.3390/diagnostics12051134
+  - https://doi.org/10.7314/APJCP.2015.16.6.2177
+  - https://doi.org/10.1016/j.cmpb.2019.105074
+  - https://doi.org/10.1007/978-3-319-93000-8_104
+  - https://doi.org/10.1007/978-3-319-93000-8_91
+  - https://www.who.int/news/item/01-02-2024-global-cancer-burden-growing--amidst-mounting-need-for-services
+  - https://doi.org/10.3389/fgene.2019.00080
+  - https://doi.org/10.1109/CVPR.2017.634
+  - https://doi.org/10.1109/BIBM.2018.8621429
+  - https://doi.org/10.3390/cancers11121901
+  - https://doi.org/10.1186/1755-8794-6-S1-S4
+
+WJBPHS-2024-0113.xml:
+  - https://doi.org/10.1186/s13058-020-01296-5
+  - https://doi.org/10.1200/GO.20.00054
+  - https://doi.org/10.1007/s10552-021-01428-y
+  - https://doi.org/10.1016/S1470-2045
+  - https://doi.org/10.1111/Ajco.12661
+  - https://doi.org/10.1007/S00268-016-3422-4
+  - https://doi.org/10.1200/Jgo.2016.005397
+  - https://doi.org/10.1177/10668
+  - https://doi.org/10.4103/2278-330x.187561
+  - https://doi.org/10.1038/Nrclinonc.2016.66
+  - https://doi.org/10.2174/
+  - https://doi.org/10.1016/J.Ejca.2016.07.022
+  - https://doi.org/10.1038/Srep40963
+  - https://doi.org/10.1007/S10552-015-0697-Y
+  - https://doi.org/10.1016/S1470-2045
+  - https://doi.org/10.1007/S13187-019-01589-0
+  - https://tmc.gov.in/ncg/index.php
+  - https://tmc.gov.in/ncg/index.php/ncg-eqas1
+  - https://doi.org/10.1371/journal.pone.0289887
+  - https://doi.org/10.1186/s13045-022-01341-0
+  - https://doi.org/10.1038/s41598-023-40443-8
+  - https://doi.org/10.3390/molecules27010156
+  - https://doi.org/10.3390/cancers14205142
+  - https://doi.org/10.1038/s41416-022-01727-4
+  - https://doi.org/10.3390/cancers15072119
+  - https://doi.org/10.3390/ijms23137145
+  - https://doi.org/10.3390/molecules27010156
+  - https://doi.org/10.3390/cancers15041030
+  - https://doi.org/10.1038/s41419-022-05242-5
+  - https://doi.org/10.3390/ijms24032100
+  - https://doi.org/10.3390/jpm13071176
+  - https://doi.org/10.3390/medicina5701006
+  - https://doi.org/10.1038/s41598-023-43131-9
+
+Breast cancer detection through attention based feature integration model.xml:
+  - https://github.com/lishen/end2end-all-conv/issues/5
+
+IJBB-V18-No3-p11-20.xml:
+  - https://doi.org/10.3390/jpm11080808
+  - https://doi.org/10.1038/s41598-020-76024-2
+  - https://doi.org/10.1155/2020/8830665
+  - https://doi.org/10.6026/97320630016882
+  - https://doi:10.1155/2014/852748
+  - https://doi.org/10.1186/s12957-021-02301-7
+  - https://doi.org/10.1016/j.cpet.2018.02.006
+  - https://doi.org/10.3934/biophy.2023005
+  - https://doi.org/10.1186/s43094-021-00222-6
+  - http://dx.doi.org/10.13040/IJPSR
+  - https://doi.org/10.1016/S1995-7645(13)60067-X
+  - https://doi.org/10.3390/life12111729
+  - https://doi.org/10.5455/aim.2022.30.91-95
+
