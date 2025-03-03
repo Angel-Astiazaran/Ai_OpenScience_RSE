@@ -14,4 +14,5 @@ See the instructions in [docs](docs/installation.md) (to be created).
 This project is licensed under the [Apache 2.0](LICENSE) License.
 
 ## Citation
-Cite it using Zenodo (DOI to be added).
+Cite it using Zenodo
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14962748.svg)](https://doi.org/10.5281/zenodo.14962748)
