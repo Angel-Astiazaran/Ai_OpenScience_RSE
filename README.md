@@ -70,7 +70,6 @@ For specific details on:
 - **Usage**, see [🚀 Usage](#usage).
 - **Docker Execution**, see [🐳 Running with Docker](#running-with-docker-optional).
 - **Validation Methodology**, see [📊 Result Validation](#result-validation).
-- **Project Structure**, see [📂 Project Structure](#project-structure).
 - **Contributing**, see [🤝 Contributing](#contributing).
 
 ## 📊 Result Validation  
