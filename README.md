@@ -54,6 +54,9 @@ The full documentation will be available at ReadTheDocs (to be created).
 ## 📄 License
 This project is licensed under the [Apache 2.0](LICENSE) License.
 
+## 📊 Result Validation  
+The methodology used to validate the results is detailed in [rationale.md](rationale.md).
+
 ## 📑 Citation
 Zenodo:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14962748.svg)](https://doi.org/10.5281/zenodo.14962748)
