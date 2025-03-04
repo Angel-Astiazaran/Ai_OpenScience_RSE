@@ -61,31 +61,6 @@ docker run --rm -it ai_openscience_rse:latest
 To run the tests, make sure you are in the Poetry shell and execute:
 pytest tests/
 
-## 📂 Project Structure
-Ai_OpenScience_RSE/
-│── src/                     # Main source code
-│   ├── pdfToXML.py          # Converts PDFs to XML using Grobid
-│   ├── wordCloudGen.py      # Generates word clouds from abstracts
-│   ├── count_figures.py     # Counts and visualizes figures per paper
-│   ├── extract_links.py     # Extracts links from papers
-│   └── main.py              # Main execution script
-│
-│── testers/                 # Unit tests for the scripts
-│   ├── test_pdfToXML.py     
-│   ├── test_wordCloudGen.py  
-│   ├── test_count_figures.py  
-│   ├── test_extract_links.py  
-│         
-│
-│── results/                 # Output files (e.g., word clouds, figures count, links extracted)
-│
-│── rationale.md             # Validation methodology for results
-│── pyproject.toml           # Poetry dependency management
-│── poetry.lock              # Poetry lock file
-│── Dockerfile               # Docker configuration
-│── README.md                # Project description
-│── LICENSE                  # License file
-
 
 ## 📚 Documentation
 

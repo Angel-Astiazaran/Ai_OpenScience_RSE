@@ -1,17 +1,18 @@
-# Rationale for Result Validation
+# 📄 Rationale for Result Validation
 
-This document explains how we have validated each of the results obtained from our analysis of 10 open-access articles using Grobid.
+This document explains the methodology used to validate each of the results obtained from analyzing 10 open-access research articles using Grobid and other text analysis tools.
 
 ## 1️⃣ Keyword Cloud Validation  
 **Objective:** Generate a word cloud based on the abstracts of the papers.  
 
 ### 🔍 Validation Method:  
-- Manually reviewed extracted abstracts to ensure they were correctly parsed.  
-- Verified that the word cloud contains relevant keywords from the abstracts.  
-- Compared word frequencies with a manual count of common words in the abstracts.  
+- Manually reviewed the extracted abstracts to ensure correct parsing.
+- Verified that the generated word cloud contains relevant and meaningful keywords from the abstracts.  
+- Compared word frequencies with manual keyword counting.
+- Cross-checked results by testing different subsets of abstracts.
 
 ### ✅ Validation Steps:  
-1. Extracted abstracts were saved to a text file (`results/abstracts.txt`).  
+1. Extracted abstracts were saved to a directory(`output/xml`).  
 2. A script was run to count word occurrences and generate the word cloud.  
 3. A manual check was performed to verify that high-frequency words appeared prominently in the word cloud.  
 4. Tested with different subsets of abstracts to confirm consistency.  
@@ -27,7 +28,7 @@ This document explains how we have validated each of the results obtained from o
 - Tested the script on known cases with a specific number of figures.  
 
 ### ✅ Validation Steps:  
-1. Extracted figure counts were saved to `results/figures_count.json`.  
+1. Extracted figure counts were saved to `output/figures_count.json`.  
 2. Randomly selected 3 articles and manually counted the figures.  
 3. Compared manual counts with the output of the script.  
 4. Verified that the visualization accurately represented the extracted data.  
@@ -43,7 +44,7 @@ This document explains how we have validated each of the results obtained from o
 - Checked that no invalid links were included.  
 
 ### ✅ Validation Steps:  
-1. Extracted URLs were saved to `results/links_extracted.txt`.  
+1. Extracted URLs were saved to `output/links_extracted.txt`.  
 2. Opened 3 sample articles manually and located the URLs in the text.  
 3. Compared manual results with script output.  
 4. Randomly tested extracted URLs to ensure they are functional.  
